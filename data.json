@@ -10,7 +10,7 @@
     "ReviewCount": "441 Reviews",
     "OpenTime": "09:00 AM",
     "CloseTime": "08:30 PM",
-    "SlideImages": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?q=80&w=600, https://images.unsplash.com/photo-1626847037657-fd3622613ce3?q=80&w=600, https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?q=80&w=600"
+    "SlideImages": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?q=80&w=600, https://images.unsplash.com/photo-1626847037657-fd3622613ce3?q=80&w=600, https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?q=80&w=600, https://opengraph.githubassets.com/bfdcfd997e722b56703a7d6b7c29cc575f86f4b3b1c5a5fdf44ddab16b4c24b3/orgs/community/discussions/44370"
   },
   "bikes": [
     {
@@ -129,7 +129,7 @@
     },
     {
       "Name": "PASSION + Pro",
-      "Price": "Check Store",
+      "Price": 88000,
       "Image": "https://d2ki7eiqd260sq.cloudfront.net/final-passion-new8ce227b0-18e8-42a9-a44b-b3b81c8db900.png",
       "SKU": "6b618108"
     }
