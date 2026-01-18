@@ -1,0 +1,131 @@
+{
+  "settings": {
+    "DealerName": "Shanti Auto",
+    "SubTitle": "Hero MotoCorp Dealer",
+    "Address": "Ground Floor, Pipalpanti Road, Belan Bazaar, munger, bihar - 811201",
+    "Phone": 9289922637,
+    "MapLink": "https://www.google.com/maps?q=25.374865",
+    "ScriptUrl": "https://script.google.com/macros/s/AKfycbx8Fg8lWYwS6QMMpvUUjL8X4EVKi19sjcWhmd6hxrlOLys_idFMihLW8s-YYtmdULSN/exec",
+    "Rating": 3.9,
+    "ReviewCount": "441 Review",
+    "OpenTime": "1899-12-30T03:38:50.000Z",
+    "CloseTime": "1899-12-30T15:08:50.000Z",
+    "SlideImages": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?q=80&w=600, https://images.unsplash.com/photo-1626847037657-fd3622613ce3?q=80&w=600, https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?q=80&w=600"
+  },
+  "bikes": [
+    {
+      "Name": "SUPER SPLENDOR XTEC",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/super-splendor-xtec712a626e-f2ec-4726-be82-276d597f527d.png",
+      "SKU": "466eb20a"
+    },
+    {
+      "Name": "DESTINI PRIME",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/destini-prime6a4906a1-1083-45b2-9d9b-6f8d7722f6dc.png",
+      "SKU": "0aa76477"
+    },
+    {
+      "Name": "SPLENDOR +",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/splendor-plus-nav23f46658-05d8-4b08-bbe8-d4e649ae8f66.png",
+      "SKU": "cbd1ffa9"
+    },
+    {
+      "Name": "GLAMOUR X",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/glamour-x-navigation519c03bb-0076-409f-8a26-f7a3f666014d.png",
+      "SKU": "40e52458"
+    },
+    {
+      "Name": "PLEASURE+ XTEC",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/Pleasure-plus-xtec-nav764d9e0a-41f3-4537-870d-be3332380728.png",
+      "SKU": "0cc5a186"
+    },
+    {
+      "Name": "XTREME 160R 4V",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/xtreme_160r_4vb8dde960-3dcd-4fc5-9fcf-f0f0fbe64381.png",
+      "SKU": "ef1f5fd6"
+    },
+    {
+      "Name": "XPULSE 200 4V",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/xpulse-200-4va9e8b5bf-3a00-4771-87d6-2885ab991bf2.png",
+      "SKU": "f25eaaf4"
+    },
+    {
+      "Name": "XTREME 160R",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/xtreme_160rc74da772-4248-4106-9bc3-4078dfe1ef4c.png",
+      "SKU": "0ddc3c37"
+    },
+    {
+      "Name": "HF 100",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/hf-100c199f01a-d405-4535-b1c3-87aad515de99.png",
+      "SKU": "4a686214"
+    },
+    {
+      "Name": "SPLENDOR+ XTEC",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/splendor-plus-xtec-nav8fae3bf6-c000-4ed2-9120-2eb152bbbadf.png",
+      "SKU": "d2a46831"
+    },
+    {
+      "Name": "GLAMOUR",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/glamourf3d25d9a-6dbb-4d95-8643-45e0ad8a0295.png",
+      "SKU": "b4b7fd8e"
+    },
+    {
+      "Name": "XTREME 125R",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/xtreme-125rdacf0ca3-61c2-4a55-ba85-0ff8282ec814.png",
+      "SKU": "1406ed20"
+    },
+    {
+      "Name": "XOOM",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/xoomeaf005d5-fa57-456b-a19b-d44dcfb6dd8a.png",
+      "SKU": "0f2446c0"
+    },
+    {
+      "Name": "HF DELUXE",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/hf-deluxee1f1ccbf-c660-42e1-a0f9-432bb8aee11d.png",
+      "SKU": "635d40a8"
+    },
+    {
+      "Name": "SPLENDOR+ XTEC 2.0",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/splendorplus_xtec_2-0a0f3af5d-0f86-4480-9ea8-432ba5f6badb.png",
+      "SKU": "d63ec79f"
+    },
+    {
+      "Name": "DESTINI 125",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/download-7-764ce87f-9a04-44b6-a439-74b18ac9173f.png",
+      "SKU": "d1ecd64d"
+    },
+    {
+      "Name": "GLAMOUR XTEC",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/glamour-xtecc75a8ba4-253a-488a-a76f-172dbc710768.png",
+      "SKU": "60245d12"
+    },
+    {
+      "Name": "XOOM 125",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/xoom_12524ee6a46-5931-4003-97cc-bbd3b6c07a62.png",
+      "SKU": "55a9d0b7"
+    },
+    {
+      "Name": "PASSION +",
+      "Price": "Check Store",
+      "Image": "https://d2ki7eiqd260sq.cloudfront.net/final-passion-new8ce227b0-18e8-42a9-a44b-b3b81c8db900.png",
+      "SKU": "6b61810b"
+    }
+  ]
+}
