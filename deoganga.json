@@ -15,7 +15,7 @@
   "bikes": [
     {
       "Name": "SUPER SPLENDOR XTEC",
-      "Price": 18000,
+      "Price": "Check Store",
       "Image": "https://d2ki7eiqd260sq.cloudfront.net/super-splendor-xtec712a626e-f2ec-4726-be82-276d597f527d.png",
       "SKU": "466eb20a"
     },
