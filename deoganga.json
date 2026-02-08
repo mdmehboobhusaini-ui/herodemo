@@ -1,16 +1,16 @@
 {
   "settings": {
-    "DealerName": "Shanti Auto",
+    "DealerName": "Deo Ganga Enterprises",
     "SubTitle": "Hero MotoCorp Dealer",
-    "Address": "Ground Floor, Pipalpanti Road, Belan Bazaar, munger, bihar - 811201",
-    "Phone": 9289922637,
-    "MapLink": "https://www.google.com/maps?q=25.3739288,86.4657628",
-    "ScriptUrl": "https://script.google.com/macros/s/AKfycbx8Fg8lWYwS6QMMpvUUjL8X4EVKi19sjcWhmd6hxrlOLys_idFMihLW8s-YYtmdULSN/exec",
+    "Address": "Khata no 582, Khesra no, Dakbangla Se Paschim, 2860, SH 55, Gagan Nagar, Rosera, Bihar 848210",
+    "Phone": 9304720362,
+    "MapLink": "https://www.google.com/maps?cid=11006060650299919948",
+    "ScriptUrl": "https://script.google.com/macros/s/AKfycbwIhE28LOUNSKSOtSmL6qy9SsuVsOjjuYJkJCiyDi3L2PBRT2ZV41LatMJwkUiGQ5BV/exec",
     "Rating": 4,
-    "ReviewCount": "441 Reviews",
+    "ReviewCount": "253 Reviews",
     "OpenTime": "09:00",
     "CloseTime": "20:30",
-    "SlideImages": "https://hfcl-website-cms.s3.ap-south-1.amazonaws.com/Page_81_blog_5_10_Best_Hero_Models_List_Hero_Bikes_Price_in_India_2024_d9ee190d74.png, https://motomotar.com/wp-content/uploads/2024/09/HERO-MAVRICK-1-1024x625.jpeg, https://imgd.aeplcdn.com/642x361/n/cw/ec/167959/hero-hurikan-440-right-side-view1.jpeg?isig=0&wm=3&q=80"
+    "SlideImages": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerI_Um1YG81LgpQry4Ibvy1AmF3MbD-8cvRiLcuBng0aJL5mQR2T1d9f5xHSRTxbK-gZ26cOlkIR-kLeWaZacgQAkFXvD7jRcZeSxmhwpO7tyfZVPONLOhXRmxfvOPn7YbwiSI8=s1360-w1360-h1020-rw, https://lh3.googleusercontent.com/gps-cs-s/AHVAwerkpnA7lrVvquMxNzX7Rx2RjOhJ_v1m1dyf5zEPH8KK1MJ02bhPuhX9Ga8-Z4vw2B8yTgRqV-DC06sJZi8MEBGcSeDsO-xlCr-5qUtvSq1q7jWOCC6WoHqmGHXGvSJ5ud4JeLos=s1360-w1360-h1020-rw, https://lh3.googleusercontent.com/gps-cs-s/AHVAwepKa91WHNdhSBRuGwjDAt5AKL-n_G8u6QyBpilJlENxpG2lHqohVz6Mq7TTYxPpeYx1rPIbbJPAG8NhkeV282gT-SJL0AwiEDD4nrmvN4LBTv2EGK3LMqMEU0I5Sypq3H2_xRc=s1360-w1360-h1020-rw"
   },
   "bikes": [
     {
